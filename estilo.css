@@ -3,5 +3,8 @@
     font-size: 30px; 
     font-family: 'Arial', sans-serif; 
     line-height: 2; 
-    background-color: #93b0e9;
+  }
+  .body {
+    color:#93b0e9;
+    text-align: center;
   }
