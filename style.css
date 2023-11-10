@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 10px solid rgb(255, 0, 0);
+    height: 500px;
+  }
+  
+  header {
+    background-color: #423e3e;
+    padding: 10px;
+    text-align: center;
+    width: 275px;
+    height: 375px;
+    border-radius: 15px;
+    margin-left: 37%;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  img{
+    width: 250px;
+    border-radius: 15px;
+    
+  }
+  .ney{
+    width: 50px;
+    border-radius: 25px
+  }
